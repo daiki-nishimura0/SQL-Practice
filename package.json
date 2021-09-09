@@ -1,0 +1,23 @@
+{
+  "name": "sql-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "delete.js",
+  "dependencies": {
+    "pg": "^8.7.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daiki-nishimura0/SQL-Practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daiki-nishimura0/SQL-Practice/issues"
+  },
+  "homepage": "https://github.com/daiki-nishimura0/SQL-Practice#readme"
+}
